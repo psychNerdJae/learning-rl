@@ -1,6 +1,9 @@
 # macOS Files
 .DS_Store
 
+# VSCode
+.vscode*
+
 # Specific directories/files
 Scratch/*
 

@@ -21,3 +21,6 @@ Jae's record of self-teaching reinforcement learning (RL), as it's used in psych
 - [Bob Wilson's class on computational modeling](http://u.arizona.edu/~bob/web_NSCS344/index.html)
 - [Hanneke den Ouden and Jill O'Reilly's tutorial on reinforcement learning](http://hannekedenouden.ruhosting.nl/RLtutorial/Instructions.html)
 - [Ida Momennejad's GitHub repository on predictive representation](https://github.com/idamomen/predictive_representations)
+
+## Installation notes
+Recently upgraded to the "Apple Silicon" MacBook Pro (i.e., with the new M1 ARM chipset). As of 12/13/2020, most things are (to my knowledge) working pretty smoothly. All packages can be managed exclusively via Anaconda. My virtual environment is running Python 3.8 with jupyter, scipy, and seaborn (and others, but this installs the max number of dependencies with the fewest calls). I also use python-graph, with a minimum v0.8.3. This can be done through conda-forge without hiccups.
